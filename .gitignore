@@ -1,0 +1,20 @@
+# Large model files (can be regenerated from notebooks)
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+
+# Data files (if too large)
+# *.csv
+*.tar.gz
+*.zip
